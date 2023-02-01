@@ -13,4 +13,4 @@
 🚀 Prisma\
 🚀 Postgresql\
 🚀 CSS3\
-🚀 Material UI\
+🚀 Material UI

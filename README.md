@@ -4,20 +4,13 @@
  
 ✨ Interested in Front-end technologies
 
-📖 Have experiense with:
+📖 I Have experiense with:
 
-🚀 JavaScript
-
-🚀 React
-
-🚀 Redux Toolkit
-
-🚀 Node.js
-
-🚀 Prisma
-
-🚀 Postgresql
-
-🚀 CSS3
-
-🚀 Material UI
+🚀 JavaScript\
+🚀 React\
+🚀 Redux Toolkit\
+🚀 Node.js\
+🚀 Prisma\
+🚀 Postgresql\
+🚀 CSS3\
+🚀 Material UI\

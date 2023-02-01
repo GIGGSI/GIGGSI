@@ -1,8 +1,9 @@
 ### Hello! I am Stoyan Spasov and I am JavaScript Developer!
 
  Located in Blagoevgrad
-✨ Interested in Front-end technologies
-📖 Have experiense with:
+ 
+- ✨ Interested in Front-end technologies
+- 📖 Have experiense with:
 🚀 JavaScript
 🚀 React
 🚀 Redux Toolkit
